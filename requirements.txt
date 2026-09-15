@@ -1,3 +1,5 @@
+
 python-telegram-bot
 beautifulsoup4
 requests
+nest_asyncio
