@@ -71,4 +71,4 @@ async def rodar_scanner_global():
 
 if __name__ == "__main__":
     nest_asyncio.apply()
-    asyncio.run(run_global_scanner())
+    asyncio.run(rodar_global_scanner())
